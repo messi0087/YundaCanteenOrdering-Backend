@@ -6,6 +6,6 @@
 
 先执行sql语句创建数据库
 
-在config中配置数据库的信息，使用npm install或yarn start 安装依赖
+在config中配置数据库的信息，使用npm install或yarn install安装依赖
 
-配合前端的App中使用
+配合前端的App中使用，开启为node
